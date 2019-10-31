@@ -1,6 +1,6 @@
 {
-    "short_name": "Pelis",
-    "name": "Peliculas",
+    "short_name": "Autos",
+    "name": "AUTOS",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#4fc3f7",
